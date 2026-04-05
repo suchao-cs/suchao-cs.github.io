@@ -25,8 +25,11 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: I will serve as a reviewer for NeurIPS 2026.
+- *2026.01*: I will serve as a reviewer for ECCV 2026. 
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted as an **The AAAI Conference on Artificial Intelligence (AAAI-2026)** as **Oral) presentation**, see you in Singapore.
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted by **The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) as Spotlight (accepatance rate=3.19%)**!
+
 
 # 📝 Publications 
 
@@ -44,17 +47,19 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, PhD student, College of Computer Science, Sichuan University.
+- *2021.09 - 2024.06*, Master, College of Computer Science, Sichuan University. 
+- *2017.09 - 2021.06*, Bachelor, College of Software Engineering, Sichuan University. 
 
+<!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
