@@ -43,19 +43,33 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 
 
+[Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/39760)
+
+**Chao Su**, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng, Yuan Sun
+
+Fourty AAAI Conference on Artificial Intelligence (AAAI-26),oral.
 
 
 [Neighbor-aware Contrastive Disambiguation for Cross-Modal Hashing with Redundant Annotations](https://openreview.net/pdf?id=Bi1udlTjMb)
 
 **Chao Su**, Likang Peng, Yuan Sun, Dezhong Peng, Xi Peng, Xu Wang
 
+The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025), Spotlight.
+
+
+[DiCA: Disambiguated Contrastive Alignment for Cross-Modal Retrieval with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/34271)
+
+**Chao Su**, Huiming Zheng, Dezhong Peng, Xu Wang
+
+Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), poster.
+
+
 
 
 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 
