@@ -92,7 +92,7 @@ Fourty AAAI Conference on Artificial Intelligence (AAAI-26), **oral**.
 
 **Chao Su**, Likang Peng, Yuan Sun, Dezhong Peng, Xi Peng, Xu Wang
 
-The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025), **spotlight**.
+Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025), **spotlight**.
 
 </div>
 </div>
@@ -102,7 +102,7 @@ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (Neu
   <div class='paper-box-image'>
     <div>
       <div class="badge">
-        NeurIPS 2025</div>
+        AAAI 2025</div>
       <img src='images/AAAI2025_DiCA_Framework.png' alt="sym" width="100%">
     </div>
   </div>
