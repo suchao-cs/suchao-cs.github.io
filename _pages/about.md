@@ -32,23 +32,54 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!--
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">
+        CVPR 2016</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
+</div>
+</div>
+-->
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">
+        AAAI 2026</div>
+      <img src='images/AAAI2026_ATCH_Framework.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
 [Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/39760)
-
 **Chao Su**, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng, Yuan Sun
 
 Fourty AAAI Conference on Artificial Intelligence (AAAI-26),oral.
 
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">
+        NeurIPS 2025</div>
+      <img src='images/NeurIPS2025_NACD_Framework.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
 [Neighbor-aware Contrastive Disambiguation for Cross-Modal Hashing with Redundant Annotations](https://openreview.net/pdf?id=Bi1udlTjMb)
 
@@ -56,6 +87,19 @@ Fourty AAAI Conference on Artificial Intelligence (AAAI-26),oral.
 
 The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025), Spotlight.
 
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">
+        NeurIPS 2025</div>
+      <img src='images/AAAI2025_DiCA_Framework.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
 [DiCA: Disambiguated Contrastive Alignment for Cross-Modal Retrieval with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/34271)
 
@@ -63,12 +107,16 @@ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (Neu
 
 Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), poster.
 
-
-
-
-
 </div>
 </div>
+
+
+
+
+
+
+
+
 
 
 
