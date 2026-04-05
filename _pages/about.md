@@ -40,8 +40,18 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+
+
+
+[Neighbor-aware Contrastive Disambiguation for Cross-Modal Hashing with Redundant Annotations](https://openreview.net/pdf?id=Bi1udlTjMb)
+
+**Chao Su**, Likang Peng, Yuan Sun, Dezhong Peng, Xi Peng, Xu Wang
+
+
+
+
 </div>
 </div>
 
