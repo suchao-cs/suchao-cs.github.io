@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# Short Bio
 I am currently a 2nd-year Ph.D. student in the School of Computer Science at Sichuan University, advised by Prof. Dezhong Peng and co-advised by Dr. Yuan Sun, Dr. Xu Wang, and Dr. Peng Hu.
 
 My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-modal Object REID, Noisy Label Learning, and Partial Label Learning. (<a href='https://scholar.google.com/citations?user=tYC8aK0AAAAJ'>
