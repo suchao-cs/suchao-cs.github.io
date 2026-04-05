@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Short Bio"
-    url: "/#Short Bio"
+    url: "/#short-bio"
 
   - title: "News"
     url: "/#-news"
   
   - title: "Academic Service"
-    url: "/#-Academic-Service"
+    url: "/#-academic-service"
 
   - title: "Selected Publications"
-    url: "/#-Selected-Publications"
+    url: "/#-selected-publications"
 
 
   # - title: "Honors and Awards"
